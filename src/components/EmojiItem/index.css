@@ -1,0 +1,14 @@
+.list-item {
+  list-style-type: none;
+  margin-right: 30px;
+}
+
+.feedback-btn {
+  border: 0 solid;
+  background-color: transparent;
+}
+
+.emoji {
+  height: 55px;
+  width: 55px;
+}
